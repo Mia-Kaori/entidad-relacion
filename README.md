@@ -5,7 +5,7 @@ Gestionar información de empleados (DNI, nombre, fecha nacimiento,
 salario, departamento) y departamentos (nombre, nº despacho, jefe).
 
 ## Diagrama
-!(er.png)
+<image src="er.png">
 
 ## Cardinalidades
 - Empleado - Trabaja - Departamento: (1,N) : (1,1)
